@@ -1,4 +1,4 @@
 # Welcome to mntlabs!
 
-We build tools to improve developer productivity.
+We build tools to improve productivity.
 
